@@ -1,4 +1,4 @@
 module.exports = function () {
-    console.log("Hello world");
+    console.log("Hello world!!");
 }
 // testLang();
